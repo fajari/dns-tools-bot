@@ -14,7 +14,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-TOKEN = '7403357711:AAFlpaRG277rERZYeGdJ1x9Nbl02ImS16qk'
+TOKEN = 'YOUR_BOT_TOKEN_HERE'
 DNS_SERVERS = ['8.8.8.8', '8.8.4.4']
 LOG_DIR = 'logs'
 LOG_DAYS = 30
